@@ -5,7 +5,7 @@ import LISComponent from './components/LISComponent';
 function App() {
   return (
     <div className="App">
-      <LISComponent />
+ <LISComponent />
     </div>
   );
 }
